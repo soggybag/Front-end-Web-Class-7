@@ -10,10 +10,10 @@
 
 |   | Time |    | Activity    | Description                         |
 |---|------|----|-------------|-------------------------------------|
-| 1 | 5 min|  5 | TT          | JSON quick intro                    |
-| 2 | 5 min| 10 | Work        | Write some JSON                     |
+| 1 | 5 min|  5 | TT          | JavaScript Arrays and Objects       |
+| 2 | 5 min| 10 | Work        | Write an object that describes your site |
 | 3 | 5 min| 15 | TT          | What is jQuery?                     |
-| 4 |10 min| 25 | I, do, we do| Load JSON with jQuery               |
+| 4 |10 min| 25 | I, do, we do| Make a webpage from data            |
 
 ## Challenges
 
@@ -22,4 +22,3 @@ To keep things simple you will write your own data and save it in a loca file.
 Your site can be be based on any subject you like. You can even make this an extension of your portfolio. 
 
 Use jQuery to load your JSON data. 
-
