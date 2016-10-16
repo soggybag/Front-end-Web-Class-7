@@ -15,6 +15,13 @@
 | 3 | 5 min| 15 | TT          | What is jQuery?                     |
 | 4 |10 min| 25 | I, do, we do| Make a webpage from data            |
 
+### 1 - Intro Templates
+
+
+### 2 - Challenges
+
+
+
 ## Challenges
 
 The goal for this section will be to create a single page app built from dynamic data. 
