@@ -39,20 +39,26 @@
 - [Challenge 15](http://webdevils.com/make-school/front-end-web-class-7/challenges/challenge-15/)
 - [Challenge 16](http://webdevils.com/make-school/front-end-web-class-7/challenges/challenge-16/)
 
-## Challenges 
+## Challenges/Projects
 
 Post your work and review the work of other students. 
-You can post any of the web sites you have created. 
+You can post any/all of the web sites you have created. 
 They can be in any state of completion. 
-The goal is to get feedback and apply it to your work. 
+The goal is to get feedback which you can apply to your work. 
+
+Do the following:
 
 - Make your work available on the web for viewing an comments.
     - Post your work to the web.
         - If you don't have a web host you can: 
-            - Talk to Tassos if you do have have a web host. 
+            - Talk to Tassos, he offered to provide hosting for studnets that may need it. 
             - Post your work via [Github Pages](https://pages.github.com)
+                - NOTE! Github Pages allows only a single web site.
     - Create a Github project for your work.
-    - Post a link to the Git hub project to Slack. 
+        - Include a link to the website in the readme. 
+        - Add a short description.
+        - Include suggestions for what type of feedback would helpful.
+    - Post a link to the Github project on Slack. 
     - Review and comment on everyone's work by posting issues to the Github project. 
         - It's important to review the work of others for their benefit and your benefit. 
         There is a lot to learn by analyzing the work of others. Ask yourself:
