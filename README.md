@@ -66,6 +66,10 @@ Do the following:
             - Why did they do what they did in this situation? 
             - Where do you think it could be improved?
             - What is working best? 
+            - You can divide comments into:
+                - Content presented
+                - Design
+                - User Experience
             
     
 
