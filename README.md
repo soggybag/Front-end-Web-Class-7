@@ -11,27 +11,28 @@
 
 |   | Time |    | Activity    | Description                         |
 |---|------|----|-------------|-------------------------------------|
-| 1 | 5 min|  5 | TT          | jQuery a quick intro                |
-| 2 | 5 min| 10 | Work        | Write some jQuery                   |
-| 1 | 5 min|  5 | TT          | JavaScript Arrays and Objects       |
-| 2 | 5 min| 10 | Work        | Write an object that describes your site |
-| 3 | 5 min| 15 | TT          | What is jQuery?                     |
-| 4 |10 min| 25 | I, do, we do| Make a webpage from data            |
+| 1 | 5 min|  5 | TT          | Challenges Intro                    |
+| 2 |50 min| 55 | Work        | Work on challenges                  |
+| 3 |10 min| 65 | Break       |                                     |
+| 4 |40 min|105 | Work        | Work on challenges                  |
+| 5 | 5 min| 15 | TT          | Wrap up                             |
 
-### 1 - Intro Templates
-
-
-### 2 - Challenges
+### 1 - Challenge Intro
 
 
+### 2 - In class challenges
 
-### What can you do with JavaScript?
-
-- Create content, set text create elements (tags)
-- Load JSON data
-- Add and remove class names from elements
-- Apply styles directly to 
-- Animate elements
+- [Challenge 1](http://webdevils.com/make-school/front-end-web-class-7/challenges/challenge-1/)
+- [Challenge 2](http://webdevils.com/make-school/front-end-web-class-7/challenges/challenge-2/)
+- [Challenge 3](http://webdevils.com/make-school/front-end-web-class-7/challenges/challenge-3/)
+- [Challenge 4](http://webdevils.com/make-school/front-end-web-class-7/challenges/challenge-4/)
+- [Challenge 5](http://webdevils.com/make-school/front-end-web-class-7/challenges/challenge-5/)
+- [Challenge 6](http://webdevils.com/make-school/front-end-web-class-7/challenges/challenge-6/)
+- [Challenge 7](http://webdevils.com/make-school/front-end-web-class-7/challenges/challenge-7/)
+- [Challenge 8](http://webdevils.com/make-school/front-end-web-class-7/challenges/challenge-8/)
+- [Challenge 9](http://webdevils.com/make-school/front-end-web-class-7/challenges/challenge-9/)
+- [Challenge 10](http://webdevils.com/make-school/front-end-web-class-7/challenges/challenge-10/)
+- [Challenge 11](http://webdevils.com/make-school/front-end-web-class-7/challenges/challenge-11/)
 
 ## Challenges 
 
