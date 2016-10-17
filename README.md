@@ -13,8 +13,17 @@
 |---|------|----|-------------|-------------------------------------|
 | 1 | 5 min|  5 | TT          | jQuery a quick intro                |
 | 2 | 5 min| 10 | Work        | Write some jQuery                   |
+| 1 | 5 min|  5 | TT          | JavaScript Arrays and Objects       |
+| 2 | 5 min| 10 | Work        | Write an object that describes your site |
 | 3 | 5 min| 15 | TT          | What is jQuery?                     |
-| 4 |10 min| 25 | I, do, we do| Load JSON with jQuery               |
+| 4 |10 min| 25 | I, do, we do| Make a webpage from data            |
+
+### 1 - Intro Templates
+
+
+### 2 - Challenges
+
+
 
 ### What can you do with JavaScript?
 
@@ -23,14 +32,6 @@
 - Add and remove class names from elements
 - Apply styles directly to 
 - Animate elements
-
-## Challenges
-
-The goal for this section will be to create a single page app built from dynamic data. 
-To keep things simple you will write your own data and save it in a loca file.
-Your site can be be based on any subject you like. You can even make this an extension of your portfolio. 
-
-Use jQuery to load your JSON data. 
 
 ## Challenges 
 
@@ -54,7 +55,5 @@ The goal is to get feedback and apply it to your work.
             - Where do you think it could be improved?
             - What is working best? 
             
-    
-    
     
 
