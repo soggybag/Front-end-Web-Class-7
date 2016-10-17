@@ -33,6 +33,11 @@
 - [Challenge 9](http://webdevils.com/make-school/front-end-web-class-7/challenges/challenge-9/)
 - [Challenge 10](http://webdevils.com/make-school/front-end-web-class-7/challenges/challenge-10/)
 - [Challenge 11](http://webdevils.com/make-school/front-end-web-class-7/challenges/challenge-11/)
+- [Challenge 12](http://webdevils.com/make-school/front-end-web-class-7/challenges/challenge-12/)
+- [Challenge 13](http://webdevils.com/make-school/front-end-web-class-7/challenges/challenge-13/)
+- [Challenge 14](http://webdevils.com/make-school/front-end-web-class-7/challenges/challenge-14/)
+- [Challenge 15](http://webdevils.com/make-school/front-end-web-class-7/challenges/challenge-15/)
+- [Challenge 16](http://webdevils.com/make-school/front-end-web-class-7/challenges/challenge-16/)
 
 ## Challenges 
 
