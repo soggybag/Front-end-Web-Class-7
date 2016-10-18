@@ -11,14 +11,52 @@
 
 |   | Time |    | Activity    | Description                         |
 |---|------|----|-------------|-------------------------------------|
-| 1 | 5 min|  5 | TT          | Challenges Intro                    |
+| 1 | 5 min|  5 | TT          | jQuery Intro                        |
+| 2 | 5 min|  5 | TT          | Challenges Intro                    |
 | 2 |50 min| 55 | Work        | Work on challenges                  |
 | 3 |10 min| 65 | Break       |                                     |
 | 4 |40 min|105 | Work        | Work on challenges                  |
 | 5 | 5 min| 15 | TT          | Wrap up                             |
 
+### 1 - jQuery
+
+jQuery is a library of helper functions written in JavaScript. 
+jQuery provides an easier way of selecting elements and performing
+common tasks with JavaScript. 
+
+The jQuery function looks like this: 
+
+`$()`
+
+Pass in a CSS selector to create a collection of elements jQuery will 
+act on. For example:
+
+`$('div') // Creates a collection of div tags`
+
+`$('.box') // Creates a collection of all elements with the class name box`
+
+jQuery always returns a refernce to itself and keeps a collection of the last selection. 
+This allows you to chain method calls like this: 
+
+`$('.box').removeClass('hello').addClass('good-bye')`
+
+Both removeClass() and addClass() are jQuery methods.
+In this case removeClass('hello') is applied to all elements with the class name "box", 
+then addClass('good-bye') is applied to all those elements. 
+
+This is a very flexible system, it takes some practice to get understand all of the possibilities. 
+
 ### 1 - Challenge Intro
 
+For the challenges I used the following jQuery methods: 
+
+- .html('string') gets, sets the content of a tag. 
+- .addClass('class-name') sets a class name
+- removeClass('class-name') removes a class name
+- .click(function(){}) handles a click event on an element with the closure
+- .attr(['name']) gets or sets the value of an attribute
+- .animate({}, time) animates a property
+- 
 
 ### 2 - In class challenges
 
