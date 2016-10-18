@@ -63,7 +63,7 @@ For the challenges I used the following jQuery methods:
 
 - .html('string') gets, sets the content of a tag. 
 - .addClass('class-name') sets a class name
-- removeClass('class-name') removes a class name
+- .removeClass('class-name') removes a class name
 - .click(function(){}) handles a click event on an element with the closure
 - .attr(['name']) gets or sets the value of an attribute
 - .animate({}, time) animates a property
