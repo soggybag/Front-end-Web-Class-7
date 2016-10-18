@@ -12,11 +12,12 @@
 |   | Time |    | Activity    | Description                         |
 |---|------|----|-------------|-------------------------------------|
 | 1 | 5 min|  5 | TT          | jQuery Intro                        |
-| 2 | 5 min|  5 | TT          | Challenges Intro                    |
-| 2 |50 min| 55 | Work        | Work on challenges                  |
-| 3 |10 min| 65 | Break       |                                     |
-| 4 |40 min|105 | Work        | Work on challenges                  |
-| 5 | 5 min| 15 | TT          | Wrap up                             |
+| 2 | 5 min| 10 | TT          | Handlebars JS                       |
+| 3 | 5 min| 15 | TT          | Challenges Intro                    |
+| 4 |30 min| 45 | Work        | Work on challenges                  |
+| 5 |10 min| 55 | Break       |                                     |
+| 6 |40 min| 95 | Work        | Work on challenges                  |
+| 7 | 5 min| 15 | Discussion  | Posting your work                   |
 
 ### 1 - jQuery
 
@@ -46,7 +47,17 @@ then addClass('good-bye') is applied to all those elements.
 
 This is a very flexible system, it takes some practice to get understand all of the possibilities. 
 
-### 1 - Challenge Intro
+### 2 - Handlebars JS
+
+Handlebars is a JS templating engine. 
+You create templates using standard HTML in script tags.
+Then compile your templates into factory functions. 
+These functions take an object as a prameter and return a populated template string. 
+
+### 3 - Challenge Intro
+
+Start the challenges from the: Start-Here project. 
+You can download the [Start-Here.zip](Start-Here.zip) file. 
 
 For the challenges I used the following jQuery methods: 
 
@@ -56,7 +67,10 @@ For the challenges I used the following jQuery methods:
 - .click(function(){}) handles a click event on an element with the closure
 - .attr(['name']) gets or sets the value of an attribute
 - .animate({}, time) animates a property
-- 
+
+For the examples I have set up handles and a single template in the starter project. 
+The script tag containing the template is in index.html.
+You will need to modify this template to complete some of the challenges. 
 
 ### 2 - In class challenges
 
