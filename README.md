@@ -123,5 +123,7 @@ Do the following:
                 - Design
                 - User Experience
             
-    
+## Resources 
+
+  - [Front End Web Playlist](https://goo.gl/z5fGaR) Watch videos 33 - 42  
 
